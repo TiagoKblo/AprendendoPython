@@ -1,0 +1,2 @@
+# AprendendoPython
+ Primeiros exercícios 
